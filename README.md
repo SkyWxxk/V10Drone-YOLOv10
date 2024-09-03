@@ -1,7 +1,7 @@
 # V10Drone-YOLOv10
 
 this is source code of V10Drone.
-It concludes YOLOv10, KAN, 4heads small object detector
+It includes YOLOv10, KAN, 4heads small object detector
 
 ## Installation
 `conda` virtual environment is recommended. 
