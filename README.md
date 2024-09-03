@@ -164,7 +164,7 @@ model.export(...)
 
 ## Acknowledgement
 
-The code base is built with [ultralytics](https://github.com/ultralytics/ultralytics) and [RT-DETR](https://github.com/lyuwenyu/RT-DETR).
+The code base is built with [ultralytics](https://github.com/ultralytics/ultralytics), [RT-DETR](https://github.com/lyuwenyu/RT-DETR) and YOLOv10.
 
 Thanks for the great implementations! 
 
@@ -179,3 +179,4 @@ If our code or models help your work, please cite our paper:
   year={2024}
 }
 ```
+# V10Drone-YOLOv10
