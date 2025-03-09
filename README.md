@@ -3,6 +3,10 @@
 this is source code of V10Drone.
 It includes YOLOv10, KAN, 4heads small object detector
 
+通过网盘分享的文件：v10drone
+链接: https://pan.baidu.com/s/1Np6r3tKUJCRsESJo4UFqkw?pwd=3bc4 提取码: 3bc4 
+--来自百度网盘超级会员v5的分享
+
 ## Installation
 `conda` virtual environment is recommended. 
 ```
